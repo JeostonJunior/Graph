@@ -1,0 +1,7 @@
+C:\Users\jeoston.araujo\source\repos\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\jeoston.araujo\source\repos\Grafos\bin\Debug\Grafos.exe
+C:\Users\jeoston.araujo\source\repos\Grafos\bin\Debug\Grafos.pdb
+C:\Users\jeoston.araujo\source\repos\Grafos\obj\Debug\Grafos.csprojAssemblyReference.cache
+C:\Users\jeoston.araujo\source\repos\Grafos\obj\Debug\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\jeoston.araujo\source\repos\Grafos\obj\Debug\Grafos.exe
+C:\Users\jeoston.araujo\source\repos\Grafos\obj\Debug\Grafos.pdb
